@@ -1,2 +1,2 @@
-# wf-1
-Membuat website float sederhana dari WPU CSS Layouting 10
+# w-1
+Membuat website position sederhana dari WPU CSS Layouting 10
